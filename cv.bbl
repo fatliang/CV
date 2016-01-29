@@ -22,13 +22,10 @@
 \BIBdecl
 
 \bibitem{20151800809813}
-\BIBentryALTinterwordspacing
 Y.~Liang, S.~Zhang, P.~Gu, and L.~Wu, ``\BIBforeignlanguage{English}{Efficient
   construction and encoding of qc-ldpc codes by cyclic lifting of
   protographs},'' \emph{\BIBforeignlanguage{English}{Journal of Southeast
-  University (English Edition)}}, vol.~31, no.~1, pp. 25 -- 30, 2015. [Online].
-  Available: \url{http://dx.doi.org/10.3969/j.issn.1003-7985.2015.01.005}
-\BIBentrySTDinterwordspacing
+  University (English Edition)}}, vol.~31, no.~1, pp. 25 -- 30, 2015.
 
 \bibitem{6992075}
 ------, ``On the design of mlc-ldpc-ofdm in drm mf and hf channels,'' in
